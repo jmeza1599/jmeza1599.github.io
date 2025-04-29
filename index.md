@@ -15,4 +15,4 @@ I am a computer science major at CSUF and I am graduating 2028.
 
 * Lab 12 
 
-    I use all of my previously learned knowledge to create an image. I enjoyed this lab because it is the end of my intro to computer science. it is a bittersweet feeling but it is the start of many new and exciting opportunities. 
+    I use all of my previously learned knowledge to create an image. I enjoyed this lab because it is the end of my intro to computer science. It is a bittersweet feeling but it is the start of many new and exciting opportunities. 
